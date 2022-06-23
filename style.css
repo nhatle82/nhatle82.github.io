@@ -1,0 +1,309 @@
+body{
+	font-size: 20px;
+	width: 1918px;
+	margin: 0px auto;
+	height: 935px;
+
+}
+#main #menu_left{
+	background: #191718;
+	width: 150px;
+	height: 935px;
+	float: left;
+
+
+}
+#main #content{
+	background: white;
+	width: 1768px;
+	height: 935px;
+	float: left;
+	
+}
+#main #content #logo{
+	
+	width: 310px;
+	height: 122px;
+	background:blue;
+	margin-top: 20px;
+	margin-left: 729px;
+	margin-right: 729px;
+
+}
+#main #content #info{
+	
+	width: 1510px;
+	height: 210px;
+	background: #EFEFEF;
+	margin-top: 30px;
+	margin-left: 129px;
+	margin-right: 129px;
+
+}
+#main #content #item{
+	height: 252px;
+
+}
+#main #content #item #item1{
+	
+	float: left;
+	width: 470px;
+	height: 252px;
+
+	background: #FFFFFF;
+	margin-top: 40px;
+	margin-left: 129px;
+}
+#main #content #item #item2{
+	float: left;
+	width: 470px;
+	height: 252px;
+
+	background: #FFFFFF;
+	margin-top: 40px;
+	margin-left: 50px;
+}
+#main #content #item #item3{
+	float: left;
+	width: 470px;
+	height: 252px;
+
+	background: #FFFFFF;
+	margin-top: 40px;
+	margin-left: 50px;
+}
+#main #content #footer{
+	background: #FFFFFF;
+	width: 1768px;
+	height: 79px;
+	margin-top: 182px;
+	padding-top:30px ;
+	padding-left: 129px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #3E3E3E;
+	border-top: 1px solid #EFEFEF;
+}
+
+#main #menu_left ul{
+	margin:0px ;
+	padding: 0px;
+}
+#main #menu_left ul li{
+	list-style: none;
+}
+#main #menu_left ul li a{
+	display: block;
+	height: 44px;
+	text-decoration:none;
+	padding-left: 16px;
+	padding-top: 14px;
+	
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	color: #AAAAAA;
+	padding-top:14px 0px 11px 16px;
+	border-bottom: 1px solid #5C5C5C;
+	
+}
+#main #menu_left ul li a.active{
+	background: #5C5C5C;
+}
+
+#main #content #info h4{
+
+	width: 241px;
+	height: 21px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	/* identical to box height */
+	padding-top: 38px;
+	padding-left: 634px;
+
+	color: #000000;
+}
+
+#main #content #info p{
+	width: 972px;
+	height: 95px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	margin-top: 18px;
+	padding-left: 269px;
+	color: #000000;
+
+}
+#main #content #item #item1 h3{
+	width: 470px;
+	height: 28px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: #000000;
+}
+#main #content #item #item1 ul li{
+	list-style: none;
+}
+#main #content #item #item1 ul li img{
+	float: left;
+	width: 128px;
+	height: 128px;
+
+
+}
+#main #content #item #item1 p{
+	float: left;
+	width: 470px;
+	height: 128px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+}
+#main #content #item #item1 h4{
+	width: 470px;
+	height: 72px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+
+}
+
+/*item2*/
+#main #content #item #item2 h3{
+	width: 470px;
+	height: 28px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: #000000;
+}
+#main #content #item #item2 ul li{
+	list-style: none;
+}
+#main #content #item #item2 ul li img{
+	float: left;
+	width: 128px;
+	height: 128px;
+
+
+}
+#main #content #item #item2 p{
+	float: left;
+	width: 470px;
+	height: 128px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+}
+#main #content #item #item2 h4{
+	width: 470px;
+	height: 72px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+
+}
+
+/*item3*/
+#main #content #item #item3 h3{
+	width: 470px;
+	height: 28px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: #000000;
+}
+#main #content #item #item3 ul li{
+	list-style: none;
+}
+#main #content #item #item3 ul li img{
+	float: left;
+	width: 128px;
+	height: 128px;
+
+
+}
+#main #content #item #item3 p{
+	float: left;
+	width: 470px;
+	height: 128px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+}
+#main #content #item #item3 h4{
+	width: 470px;
+	height: 72px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #000000;
+
+
+}
